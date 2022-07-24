@@ -1,0 +1,13 @@
+.main-page{
+	background-color: darkgray;
+	padding-bottom: 0px;
+}
+
+.sub-page{
+	font-size: 40px;
+	background-color: lightgrey;
+}
+
+.first-row{
+	width: 100%;
+}
